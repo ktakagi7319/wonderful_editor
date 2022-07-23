@@ -1,0 +1,13 @@
+current directory: /Users/ktakagi/git/wonderful_editor/vendor/bundle/ruby/2.7.0/gems/json-2.6.2/ext/json
+/Users/ktakagi/.rbenv/versions/2.7.6/bin/ruby -I /Users/ktakagi/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20220723-57513-3ewk7g.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ktakagi/git/wonderful_editor/vendor/bundle/ruby/2.7.0/gems/json-2.6.2/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/ktakagi/git/wonderful_editor/vendor/bundle/ruby/2.7.0/gems/json-2.6.2/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/ktakagi/git/wonderful_editor/vendor/bundle/ruby/2.7.0/gems/json-2.6.2/ext/json
+make "DESTDIR=" install
